@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <!-- Background -->
+  <rect width="400" height="200" fill="transparent"/>
+  
+  <!-- Minimal R with integrated wave symbol -->
+  <path d="M120 80 L120 140 M120 85 L145 85 C155 85, 165 95, 165 105 C165 112, 160 118, 153 120 L165 140" 
+        fill="none" 
+        stroke="#0A2463" 
+        stroke-width="4"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+  
+  <!-- Breath/wave element -->
+  <path d="M165 110 C185 100, 200 120, 220 110" 
+        fill="none" 
+        stroke="#4FB3BF" 
+        stroke-width="4"
+        stroke-linecap="round"/>
+  
+  <!-- Minimal AI -->
+  <path d="M250 140 L240 95 L230 140 M260 140 L260 95" 
+        fill="none" 
+        stroke="#0A2463" 
+        stroke-width="4"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+        
+  <!-- Dot over the i -->
+  <circle cx="260" cy="85" r="4" fill="#4FB3BF"/>
+</svg>
